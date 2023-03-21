@@ -1,0 +1,9 @@
+name: binder-test
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - ipyleaflet
