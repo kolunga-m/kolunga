@@ -1,0 +1,9 @@
+# Book settings
+title                       : Test book
+author                      : kolunga
+copyright                   : "2023"
+logo                        : 
+
+# Execution settings
+execute:
+  execute_notebooks         : off  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
